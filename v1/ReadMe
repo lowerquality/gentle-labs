@@ -1,0 +1,67 @@
+├── data
+|     └── lang
+    ├── L.fst
+    ├── L_disambig.fst
+    ├── oov.int
+    ├── oov.txt
+    ├── phones
+    │   ├── align_lexicon.int
+    │   ├── align_lexicon.txt
+    │   ├── context_indep.csl
+    │   ├── context_indep.int
+    │   ├── context_indep.txt
+    │   ├── disambig.csl
+    │   ├── disambig.int
+    │   ├── disambig.txt
+    │   ├── extra_questions.int
+    │   ├── extra_questions.txt
+    │   ├── nonsilence.csl
+    │   ├── nonsilence.int
+    │   ├── nonsilence.txt
+    │   ├── optional_silence.csl
+    │   ├── optional_silence.int
+    │   ├── optional_silence.txt
+    │   ├── roots.int
+    │   ├── roots.txt
+    │   ├── sets.int
+    │   ├── sets.txt
+    │   ├── silence.csl
+    │   ├── silence.int
+    │   ├── silence.txt
+    │   ├── wdisambig.txt
+    │   ├── wdisambig_phones.int
+    │   ├── wdisambig_words.int
+    │   ├── word_boundary.int
+    │   └── word_boundary.txt
+    ├── phones.txt
+    ├── topo
+    └── words.txt
+
+├── exp
+│   └── tri2a
+│       ├── decode
+│       ├── final.mdl.gz
+│       └── graph
+│           └── HCLG.fst.gz
+├── input
+│   └── text.gz
+├── scripts
+│   ├── cmdOut.txt.gz
+│   ├── fromBash.py.gz
+│   └── spk2utt.gz
+└── steps
+    ├── get_ctm.sh.gz
+    ├── only_decode.sh.gz
+    ├── split_data.sh.gz
+    └── split_scp.pl.gz
+
+After running the scripts, you should get a directory in v1/
+
+├── output
+    ├── wav.scp
+    ├── utt2spk
+    ├── feats.scp
+    ├── feats.ark
+    ├── cmvn.scp
+    ├── cmvn.ark
+    └── spk2utt
