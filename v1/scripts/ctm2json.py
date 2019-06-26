@@ -1,24 +1,32 @@
 import json
 import os
+import sys
+
+fileName = sys.argv[1]
+filePath = sys.argv[2]
 
 # f = open("../score_5/transcript.ctm","r")
-f = open("../newPhone.ctm","r")
+f = open(filePath,"r")
 
 data_json = {}
 full_data_json = []
 index = 0
 try:
     # os.remove("word.json")
-    os.remove("phoneme.json")
-    # os.rmdir("json")
+    os.mkdir("../output/json")
 except OSError:
     pass
 except FileExistsError:
     pass
 finally:
-    # os.mkdir("json")
-    # file_json = open("word.json","w+")
-    file_json = open("phoneme.json","w+")
+    try:
+        os.remove("../output/json/" + fileName + ".json")
+    except OSError:
+        pass
+    finally:
+         #os.mkdir("../output/json")
+         # file_json = open("word.json","w+")
+         file_json = open("../output/json/" + fileName +".json","w+")
 for line in f.readlines():
     count = 0
     for word in line.split():

@@ -1,15 +1,17 @@
 import os
+import subprocess
 
+
+# if word.ctm or output.ctm exists then copy it to output/ dir
 
 phnDict = {}
-
-phones = open("../phones.txt","r+")
+phones = open("../exp/tri2a/phones.txt","r+")
 try:
-    os.remove("../newPhone.ctm")
+    os.remove("../output/phones.ctm")
 except OSError:
     pass
 finally:
-    newPhone = open("../newPhone.ctm","a+")
+    newPhone = open("../output/phones.ctm","a+")
 
 for line in phones:
     sym, val = line.strip().split(" ")
@@ -17,7 +19,7 @@ for line in phones:
 
 # print(phnDict)
 
-with open("../phones_dup.ctm","r+") as ctmFile:
+with open("../exp/tri2a/decode/1.ctm","r+") as ctmFile:
     for line in ctmFile.readlines():
         data = []
         count = 0
@@ -27,9 +29,9 @@ with open("../phones_dup.ctm","r+") as ctmFile:
                 data.append(word)
             else:
                 if (word in phnDict):
-                    print("Sym: ",phnDict[word],"\n")
+#                    print("Sym: ",phnDict[word],"\n")
                     data.append(phnDict[word])
-        print(data)             
+#        print(data)             
         for d in data:
             newPhone.write("%s " % d)
         newPhone.write("\n")
