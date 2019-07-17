@@ -40,20 +40,20 @@
 ├── exp
 │   └── tri2a
 │       ├── decode
-│       ├── final.mdl.gz
+│       ├── final.mdl
 │       └── graph
-│           └── HCLG.fst.gz
+│           └── HCLG.fst
 ├── input
-│   └── text.gz
+│   └── text
 ├── scripts
-│   ├── cmdOut.txt.gz
-│   ├── fromBash.py.gz
-│   └── spk2utt.gz
+│   ├── cmdOut.txt
+│   ├── fromBash.py
+│   └── spk2utt
 └── steps
-    ├── get_ctm.sh.gz
-    ├── only_decode.sh.gz
-    ├── split_data.sh.gz
-    └── split_scp.pl.gz
+    ├── get_ctm.sh
+    ├── only_decode.sh
+    ├── split_data.sh
+    └── split_scp.pl
 
 After running the scripts, you should get a directory in v1/
 
