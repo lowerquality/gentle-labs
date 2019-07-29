@@ -1,0 +1,9 @@
+# ali-to-phones --write-lengths=true /Users/shreya/Documents/kaldi/egs/gentle/data/tdnn_7b_chain_online/decode/../final.mdl "ark:gunzip -c /Users/shreya/Documents/kaldi/egs/gentle/data/tdnn_7b_chain_online/decode/ali_tmp.1.gz|" ark,t:- | perl -ne 'chomp;s/^\S+\s*//;@a=split /\s;\s/, $_;$count{"begin ".$a[$0]."\n"}++;
+  if(@a>1){$count{"end ".$a[-1]."\n"}++;}for($i=0;$i<@a;$i++){$count{"all ".$a[$i]."\n"}++;}
+  END{for $k (sort keys %count){print "$count{$k} $k"}}' | gzip -c > /Users/shreya/Documents/kaldi/egs/gentle/data/tdnn_7b_chain_online/decode/phone_stats.1.gz 
+# Started at Mon Jul 29 16:30:15 PDT 2019
+#
+ali-to-phones --write-lengths=true /Users/shreya/Documents/kaldi/egs/gentle/data/tdnn_7b_chain_online/decode/../final.mdl 'ark:gunzip -c /Users/shreya/Documents/kaldi/egs/gentle/data/tdnn_7b_chain_online/decode/ali_tmp.1.gz|' ark,t:- 
+LOG (ali-to-phones[5.5.424~1-b5385]:main():ali-to-phones.cc:134) Done 1 utterances.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Jul 29 16:30:15 PDT 2019, elapsed time 0 seconds
