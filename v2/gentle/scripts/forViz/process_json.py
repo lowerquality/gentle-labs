@@ -2,10 +2,10 @@ import json
 import sys
 
 
-def process(textFile, type, outputPath):
+def process(json_file, type, outputPath):
     sample_names = []
     # phoneme_file = open("phoneme.json","r")
-    with open(textFile, "r") as main_file:
+    with open(json_file, "r") as main_file:
 
         main_data = json.load(main_file)
         # print(phoneme_data)
@@ -16,14 +16,14 @@ def process(textFile, type, outputPath):
                 # print(record['utterance'])
                 sample_names.append(record["utterance"])
     # print("List \n")
-    print(sample_names)
+    # print(sample_names)
 
     # saving separate sample json files
     for name in sample_names:
         all_records = []
-        file_json = open(outputPath + "/" + name + "_" + type + ".json", "w+")
+        output_json = open(outputPath + "/" + name + "_" + type + ".json", "w+")
         count = 0
-        with open(textFile, "r") as main_file:
+        with open(json_file, "r") as main_file:
             main_data = json.load(main_file)
             for record in main_data:
                 if name == record["utterance"]:
@@ -31,13 +31,17 @@ def process(textFile, type, outputPath):
                     record["id"] = count
                     all_records.append(record.copy())
         json.dump(
-            all_records, file_json, separators=(",", ":"), indent=2, ensure_ascii=False
+            all_records,
+            output_json,
+            separators=(",", ":"),
+            indent=2,
+            ensure_ascii=False,
         )
-        file_json.close()
+        output_json.close()
 
 
 if __name__ == "__main__":
-    textFile = sys.argv[1]  # json filename
+    json_file = sys.argv[1]  # json filename
     type = sys.argv[2]  # phoneme or word
     outputPath = sys.argv[3]  # proto_dir/json/
-    process(textFile, type, outputPath)
+    process(json_file, type, outputPath)

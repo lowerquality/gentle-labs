@@ -162,7 +162,7 @@ try:
     ]
     phnAlignments = subprocess.check_call(cmd, cwd=kaldiPath, stdout=subprocess.PIPE)
 
-    with open(proto_dir + "/decode/aligned-phones.ctm", "w") as phones:
+    with open(proto_dir + "/decode/aligned-phoneme.ctm", "w") as phones:
         cmd = [
             "./utils/int2sym.pl",
             "-f",
@@ -202,7 +202,7 @@ try:
     ]
     nBest = subprocess.check_call(cmd, cwd=kaldiPath, stdout=subprocess.PIPE)
 
-    with open(proto_dir + "/decode/aligned-words.ctm", "w") as words:
+    with open(proto_dir + "/decode/aligned-word.ctm", "w") as words:
         cmd = [
             "./utils/int2sym.pl",
             "-f",
@@ -221,8 +221,10 @@ try:
     if os.path.exists(proto_dir + "/json"):
         shutil.rmtree(proto_dir + "/json")
     os.makedirs(proto_dir + "/json")
-    ctmTo.convToJSON("words", proto_dir, transcriptPath)
-    ctmTo.convToJSON("phones", proto_dir, transcriptPath)
+
+    # converting word and phoneme ctm to json format
+    ctmTo.convToJSON("word", proto_dir, transcriptPath)
+    ctmTo.convToJSON("phoneme", proto_dir, transcriptPath)
 
     # create meta.json
     meta.create_meta(transcriptPath, audioPath, proto_dir)

@@ -49,18 +49,20 @@ def convToJSON(keyword, proto_dir, text_file):
         json_file.close()
 
         # call process_json.py
-        pjson.process(text_file, keyword, proto_dir + "/json")
+        json_file = proto_dir + "/json/" + keyword + ".json"
+        pjson.process(json_file, keyword, proto_dir + "/json")
 
     except Exception as error:
         print("exception: ", error)
 
 
 if __name__ == "__main__":
-    keyword = ["words", "phones"]  # <phones> or <words>
-    proto_dir = sys.argv[2]  # proto_dir/decode/aligned-phones(words).ctm resides here
-    text_file = sys.argv[3]  # path to transcript text file
+    keyword = ["word", "phoneme"]  # <phones> or <words>
+    proto_dir = sys.argv[1]  # proto_dir/decode/aligned-phones(words).ctm resides here
+    text_file = sys.argv[2]  # path to transcript text file
     if os.path.exists(proto_dir + "/json"):
-        shutil.rmtree(proto_dir + "/json")
-    os.makedirs(proto_dir + "/json")
+        pass
+    else:
+        os.makedirs(proto_dir + "/json")
     for key in keyword:
         convToJSON(key, proto_dir, text_file)
