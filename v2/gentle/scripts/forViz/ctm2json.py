@@ -1,56 +1,66 @@
 import json
 import os
 import sys
+import shutil
 
-fileName = sys.argv[1] # phones
-filePath = sys.argv[2] # gentle/model/decode phones.ctm resides here
+import forViz.process_json as pjson
 
-# f = open("../score_5/transcript.ctm","r")
-f = open(filePath + "/" + fileName + ".ctm","r") # filePath = ../phones.ctm
 
-data_json = {}
-full_data_json = []
-index = 0
-try:
-    # os.remove("word.json")
-    os.mkdir(filePath+"/json")
-except OSError:
-    pass
-except FileExistsError:
-    pass
-finally:
+def convToJSON(keyword, proto_dir, text_file):
+    f = open(proto_dir + "/decode/aligned-" + keyword + ".ctm", "r")
+    data_json = {}
+    full_data_json = []
+    index = 0
     try:
-        os.remove(filePath+"/json/" + fileName + ".json")
-    except OSError:
-        pass
-    finally:
-         #os.mkdir("../output/json")
-         # file_json = open("word.json","w+")
-         file_json = open(filePath+"/json/" + fileName +".json","w+")
-for line in f.readlines():
-    count = 0
-    for word in line.split():
-        count+=1
-        # print(count,word)
-        if (count == 1):
-            data_json['utterance'] = word # utterance/speaker
-            # continue
-        if (count == 2):
-            continue # no 
-        if (count == 3):
-            data_json['start'] = word #start
-        if (count == 4):
-            data_json['end'] = str(round(float(data_json['start']) + float(word),2)) # dur
-        if (count == 5):
-            data_json['text'] = word  #text 
-    # print(data_json)
-    index += 1
-    data_json['id'] = index
-    full_data_json.append(data_json.copy())
-    print(full_data_json)
-json.dump(full_data_json, file_json, separators = (',',':') ,ensure_ascii = False, indent = 2)
-print("\n")
-# print(file_json.readlines())
-f.close()
-file_json.close()    
-    
+        json_file = open(proto_dir + "/json/" + keyword + ".json", "w")
+        for line in f.readlines():
+            count = 0
+            for word in line.split():
+                count += 1
+                # print(count,word)
+                if count == 1:
+                    data_json["utterance"] = word  # utterance/speaker
+                    # continue
+                if count == 2:
+                    continue  # no
+                if count == 3:
+                    data_json["start"] = word  # start
+                if count == 4:
+                    data_json["end"] = str(
+                        round(float(data_json["start"]) + float(word), 2)
+                    )  # dur
+                if count == 5:
+                    data_json["text"] = word  # text
+            # print(data_json)
+            index += 1
+            data_json["id"] = index
+            full_data_json.append(data_json.copy())
+            # print(full_data_json)
+        json.dump(
+            full_data_json,
+            json_file,
+            separators=(",", ":"),
+            ensure_ascii=False,
+            indent=2,
+        )
+        # print("\n")
+        # print(json_file.readlines())
+        f.close()
+        json_file.close()
+
+        # call process_json.py
+        pjson.process(text_file, keyword, proto_dir + "/json")
+
+    except Exception as error:
+        print("exception: ", error)
+
+
+if __name__ == "__main__":
+    keyword = ["words", "phones"]  # <phones> or <words>
+    proto_dir = sys.argv[2]  # proto_dir/decode/aligned-phones(words).ctm resides here
+    text_file = sys.argv[3]  # path to transcript text file
+    if os.path.exists(proto_dir + "/json"):
+        shutil.rmtree(proto_dir + "/json")
+    os.makedirs(proto_dir + "/json")
+    for key in keyword:
+        convToJSON(key, proto_dir, text_file)

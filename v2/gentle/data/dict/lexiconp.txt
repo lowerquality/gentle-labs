@@ -1,23 +1,11 @@
 !SIL 1.0	SIL
 <UNK> 1.0	SPN
-корреспондент 1.0	k ay rr i s p a n dd je n t
-американской 1.0	a mm i rr i k aa n s k ay j
-газеты 1.0	g a zz je t y
-арчибальд 1.0	a r ch i b aa ll t
-скайлспроходя 1.0	p r ay h a dd ja
-мимо 1.0	mm ii m ay
-увидел 1.0	u vv ii dd i l
-стоявшую 1.0	s t a j ja f sh u uj
-перед 1.0	pp i rr jo t
-объявлением 1.0	a b j i v ll je nn i i m
-босую 1.0	b a s uu uj
-молодую 1.0	m ay l a d uu uj
-женщину 1.0	zh ee nn sch i n u
-в 1.0	v y
-ситцевом 1.0	ss ii c y v ay m
-опрятном 1.0	a p rr ja t n ay m
-платье 1.0	p l aa tt j i
-она 1.0	a n aa
-читала 1.0	ch i t aa l ay
-шевеля 1.0	sh y vv i ll ja
-губами 1.0	g uu b ay mm i
+электричество 1.0	y ll i k t rr ii ch i s t v ay
+было 1.0	b yy l ay
+потушенои 1.0	ii
+бледный 1.0	b ll je d n y j
+свет 1.0	s vv je t
+проникал 1.0	p r ay nn i k aa l
+сквозь 1.0	s k v oo ss
+стёкла 1.0	ss tt jo k l ay
+глазков 1.0	g l a s k oo f
