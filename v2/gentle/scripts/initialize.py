@@ -2,10 +2,9 @@ import shutil
 import os
 import sys
 
-if __name__ == "__main__":
 
-    # proto_dir is egs/gentle/data, if it doesn't exist, it is created here.
-    proto_dir = sys.argv[1]
+def initializeWith(proto_dir, model_dir, lex_dir):
+
     if os.path.exists(proto_dir):
         pass
     else:
@@ -40,15 +39,17 @@ if __name__ == "__main__":
             proto_dir + "/../model/tree"
         ):
             print("Acoustic model files are found: all OK!")
-            # copy these files to proto_dir+"/tdnn_7b_chain_online"
-            shutil.copy(
-                proto_dir + "/../model/final.mdl", proto_dir + "/tdnn_7b_chain_online/"
-            )
-            shutil.copy(
-                proto_dir + "/../model/tree", proto_dir + "/tdnn_7b_chain_online/"
-            )
         else:
-            print("No final.mdl or tree found in ", proto_dir + "/../model")
+            print("Searching for final.mdl and tree in {0}".format(model_dir))
+            shutil.copy(model_dir + "/final.mdl", proto_dir + "/../model/final.mdl")
+            shutil.copy(model_dir + "/tree", proto_dir + "/../model/tree")
+            print("Acoustic model files are found: all OK!")
+
+        # copy these files to proto_dir+"/tdnn_7b_chain_online"
+        shutil.copy(
+            proto_dir + "/../model/final.mdl", proto_dir + "/tdnn_7b_chain_online/"
+        )
+        shutil.copy(proto_dir + "/../model/tree", proto_dir + "/tdnn_7b_chain_online/")
     except Exception as error:
         print(error)
 
@@ -63,6 +64,20 @@ if __name__ == "__main__":
         if os.path.exists(proto_dir + "/../lexicon/lexicon.txt"):
             print("lexicon is found: all OK!")
         else:
-            print("No lexicon is found in ", proto_dir + "/../lexicon")
+            print("Searching for lexicon in {0}".format(lex_dir))
+            shutil.copy(lex_dir + "/lexicon.txt", proto_dir + "/../lexicon/")
+            print("lexicon is found: all OK!")
+
     except Exception as error:
         print(error)
+
+
+if __name__ == "__main__":
+    #  This script takes three arguments
+
+    # proto_dir is egs/gentle/data, if it doesn't exist, it is created here.
+    proto_dir = sys.argv[1]
+    model_dir = sys.argv[2]  # dir where final.mdl and tree for the lang are stored
+    lex_dir = sys.argv[3]  # dir where lexicon for the lang is stored
+
+    initializeWith(proto_dir, model_dir, lex_dir)
