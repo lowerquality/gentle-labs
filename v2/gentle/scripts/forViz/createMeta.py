@@ -42,7 +42,7 @@ def create_meta(text_path, audio_path, proto_dir):
     with open(text_path, "r") as textFile:
         sample_names = findSampleNames(textFile)
 
-    print("sample name: ", sample_names)
+    # print("sample name: ", sample_names)
     for name in sample_names:
         textFile = open(text_path, "r")
         for line in textFile.readlines():
@@ -53,11 +53,11 @@ def create_meta(text_path, audio_path, proto_dir):
 
                 count += 1
                 if name == word:
-                    print("word: ", word)
+                    # print("word: ", word)
                     record["sample"] = word
                     flag = 1
                 if flag == 1 and count > 1:
-                    print("text: ", word)
+                    # print("text: ", word)
                     record["ground_truth"] = str(word)
 
             if bool(record) is True:
