@@ -1,10 +1,11 @@
 **This directory contains the work done under GSoC 2019 towards extending Gentle to more languages.**
 
-##Project Overview:
+## Project Overview:
  > The project is about extending an existing text-to-speech forced aligner to more languages. The tool that I am working on, known as Gentle, is a forced aligner for speech; it is an open source tool developed by a number of people from all around the world. One main author is Robert M. Ochshorn, my mentor for the project. The tool takes a sentence as input along with its audio data, utilizes the audio data in an automatic speech recognition (ASR) model to predict a transcription as well as time-aligns the words to the time when those were spoken in the speech.
 	
-```
-Instructions to run the code:
+
+### Instructions to run the code:
+
 ```
 1. Install Kaldi
 
@@ -53,4 +54,4 @@ Instructions to run the code:
 	4. Produce CTM files for words and phoneme alignments inside 
 	proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
 	5. Produce JSON files for the CTM files inside proto_dir/json [remaining]
-
+```
