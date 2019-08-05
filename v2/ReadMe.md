@@ -6,7 +6,7 @@
 
 ### Instructions to run the code:
 
-```
+
 1. Install Kaldi
 
 2. Place gentle/ as a recipe inside Kaldi/egs
@@ -53,5 +53,5 @@
 	3. Gmm-latgen output goes in proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
 	4. Produce CTM files for words and phoneme alignments inside 
 	proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
-	5. Produce JSON files for the CTM files inside proto_dir/json [remaining]
-```
+	5. Produce JSON files for the CTM files inside proto_dir/json
+
