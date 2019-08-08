@@ -1,5 +1,5 @@
 import sys
-import re
+import os
 
 
 def generatePhones(proto_dir):
@@ -32,16 +32,19 @@ def generatePhones(proto_dir):
                     else:
                         pass
     allLetters = sorted(allLetters)
-    print(allLetters)
+    # print(allLetters)
     for letter in allLetters:
         nonSilPhones.write(letter)
         nonSilPhones.write("\n")
     nonSilPhones.close()
-
+    silPhones.close()
+    os.chmod(proto_dir + "/dict/silence_phones.txt", 0o777)
+    os.chmod(proto_dir + "/dict/nonsilence_phones.txt", 0o777)
     # optional_phones.txt with SIL
     optionalPhones.write("SIL")
     optionalPhones.write("\n")
     optionalPhones.close()
+    os.chmod(proto_dir + "/dict/optional_silence.txt", 0o777)
 
 
 if __name__ == "__main__":

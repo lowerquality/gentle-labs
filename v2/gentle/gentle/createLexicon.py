@@ -16,8 +16,9 @@ def filterUtterance(textFile, proto_dir):
         count = 0
         for lines in text.readlines():
             # because first line is the name of the sample
-            print(lines)
+
             wordSet = lines.split(" ")
+            print(wordSet)
             for word in wordSet:
                 count += 1
                 if count > 1:
@@ -41,7 +42,7 @@ def generateLexicon(textFile, proto_dir):
     for utt in utterances.read().splitlines():
         utterance.append(utt)
     utterances.close()
-    # print(utterance)
+    print("Utterance is {0}".format(utterance))
     phonemes = []
     subsetLexicon = open(
         proto_dir + "/dict/lexicon.txt", "w"
@@ -68,7 +69,7 @@ def generateLexicon(textFile, proto_dir):
                     for phn in phonemes:
                         subsetLexicon.write(" ")
                         subsetLexicon.write(phn)
-
+    os.chmod(proto_dir + "/dict/lexicon.txt", 0o777)
     subsetLexicon.close()
 
     # phones related

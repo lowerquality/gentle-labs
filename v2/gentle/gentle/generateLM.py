@@ -29,35 +29,35 @@ if __name__ == "__main__":
     # Creating lexicon, phones, L.fst etc: inputs for generating HCLG.fst
     lx.generateLexicon(text, proto_dir)
 
-    # call prepare_language.sh c functions here
-    lang.create_fst(kaldi_path, proto_dir)
+    # # call prepare_language.sh c functions here
+    # lang.create_fst(kaldi_path, proto_dir)
 
-    # Generating HCLG.fst (using Gentle here)
-    txt_in = open(text).read()
+    # # Generating HCLG.fst (using Gentle here)
+    # txt_in = open(text).read()
 
-    vocab_in = ms.load_vocabulary(
-        open(proto_dir + "/tdnn_7b_chain_online/graph_pp/words.txt")
-    )
+    # vocab_in = ms.load_vocabulary(
+    #     open(proto_dir + "/tdnn_7b_chain_online/graph_pp/words.txt")
+    # )
 
-    print("My Vocab", vocab_in)
+    # print("My Vocab", vocab_in)
 
-    source_words_list = txt_in.split(" ")[1:]
+    # source_words_list = txt_in.split(" ")[1:]
 
-    # We must supply a version of `words_in` that only has words within our vocabulary (ie. proto_langdir/words.txt)
-    new_wdlist = []
-    for wd in source_words_list:
-        if wd not in vocab_in:
-            new_wdlist.append(lm.OOV_TERM)
-        else:
-            new_wdlist.append(wd)
+    # # We must supply a version of `words_in` that only has words within our vocabulary (ie. proto_langdir/words.txt)
+    # new_wdlist = []
+    # for wd in source_words_list:
+    #     if wd not in vocab_in:
+    #         new_wdlist.append(lm.OOV_TERM)
+    #     else:
+    #         new_wdlist.append(wd)
 
-    print("Supplying these words", new_wdlist)
+    # print("Supplying these words", new_wdlist)
 
-    HCLGFile = lm.make_bigram_language_model([new_wdlist], proto_dir)
-    print(HCLGFile)
+    # HCLGFile = lm.make_bigram_language_model([new_wdlist], proto_dir)
+    # print(HCLGFile)
 
-    # saving HCLG.fst in proto_langdir
-    # renaming temp_HCLG.fst to HCLG.fst
-    # storing it in proto_langdir (argv[2])
-    shutil.move(HCLGFile, proto_dir + "/tdnn_7b_chain_online/graph_pp/HCLG.fst")
+    # # saving HCLG.fst in proto_langdir
+    # # renaming temp_HCLG.fst to HCLG.fst
+    # # storing it in proto_langdir (argv[2])
+    # shutil.move(HCLGFile, proto_dir + "/tdnn_7b_chain_online/graph_pp/HCLG.fst")
 

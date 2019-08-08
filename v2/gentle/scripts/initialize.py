@@ -28,12 +28,13 @@ def initializeWith(proto_dir, model_dir, lex_dir):
     # if either is not found, raise error
     try:
         if os.path.exists(proto_dir + "/../model"):
-            pass
-        else:
-            os.makedirs(proto_dir + "/../model")
-            print(
-                "path: ", proto_dir + "/../model doesn't exist but it is created now!"
-            )
+            shutil.rmtree(proto_dir + "/../model/")
+        os.makedirs(proto_dir + "/../model")
+        # else:
+        #     os.makedirs(proto_dir + "/../model")
+        #     print(
+        #         "path: ", proto_dir + "/../model doesn't exist but it is created now!"
+        #     )
 
         if os.path.exists(proto_dir + "/../model/final.mdl") and os.path.exists(
             proto_dir + "/../model/tree"
@@ -55,17 +56,20 @@ def initializeWith(proto_dir, model_dir, lex_dir):
 
     try:
         if os.path.exists(proto_dir + "/../lexicon"):
-            pass
-        else:
-            os.makedirs(proto_dir + "/../lexicon")
-            print(
-                "path: ", proto_dir + "/../lexicon doesn't exist but it is created now!"
-            )
+            shutil.rmtree(proto_dir + "/../lexicon")
+        os.makedirs(proto_dir + "/../lexicon")
+        # else:
+        #     os.makedirs(proto_dir + "/../lexicon")
+        #     print(
+        #         "path: ", proto_dir + "/../lexicon doesn't exist but it is created now!"
+        #     )
         if os.path.exists(proto_dir + "/../lexicon/lexicon.txt"):
             print("lexicon is found: all OK!")
         else:
             print("Searching for lexicon in {0}".format(lex_dir))
-            shutil.copy(lex_dir + "/lexicon.txt", proto_dir + "/../lexicon/")
+            shutil.copy(
+                lex_dir, proto_dir + "/../lexicon/lexicon.txt"
+            )  # lex_dir is the path to lexicon_file not just the lex_dir
             print("lexicon is found: all OK!")
 
     except Exception as error:
@@ -73,11 +77,11 @@ def initializeWith(proto_dir, model_dir, lex_dir):
 
 
 if __name__ == "__main__":
-    #  This script takes three arguments
+    #  This script takes three arguments..
 
     # proto_dir is egs/gentle/data, if it doesn't exist, it is created here.
     proto_dir = sys.argv[1]
     model_dir = sys.argv[2]  # dir where final.mdl and tree for the lang are stored
-    lex_dir = sys.argv[3]  # dir where lexicon for the lang is stored
+    lex_dir = sys.argv[3]  # path to lexicon for the lang
 
     initializeWith(proto_dir, model_dir, lex_dir)
