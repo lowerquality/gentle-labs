@@ -1,19 +1,28 @@
-**This directory contains the work done under GSoC 2019 towards extending Gentle to more languages.**
+### Overview
 
-## Project Overview:
- > The project is about extending an existing text-to-speech forced aligner to more languages. The tool that I am working on, known as Gentle, is a forced aligner for speech; it is an open source tool developed by a number of people from all around the world. One main author is Robert M. Ochshorn, my mentor for the project. The tool takes a sentence as input along with its audio data, utilizes the audio data in an automatic speech recognition (ASR) model to predict a transcription as well as time-aligns the words to the time when those were spoken in the speech.
-	
+This documentation allows you to align a Russian-language text file to a Russian-language audio file.
+
 
 ### Instructions to run the code:
 
 
-1. Install Kaldi
+1. Install Kaldi:
+	
+	`git clone https://github.com/kaldi-asr/kaldi.git`
+	Then follow the installation instructions at http://jrmeyer.github.io/asr/2016/01/26/Installing-Kaldi.html 
+	Once you have run `make -j numJobs` successfully, return to this page.
+	
+2. Install Gentle:
+	`git clone https://github.com/lowerquality/gentle.git`
+	Then follow installation instruction(#3) at https://github.com/lowerquality/gentle for OS X & Linux systems.
+	
+3. Getting this repo on your system: `git clone https://github.com/shreya2111/gentle-labs.git`. After this you have a `gentle` directory inside `gentle-labs/v2`
 
-2. Place gentle/ as a recipe inside Kaldi/egs
+4. Place that `gentle` directory as a recipe in Kaldi path inside `kaldi/egs/` and copy scripts inside `gentle/gentle` directory to Gentle tool inside `gentle/gentle/'
+	
+	The codes inside gentle/scripts/ and gentle/gentle will be executed to get the language model files, decoding graph and audio file speech features. 
 
-3. The scripts placed inside gentle/scripts/ and gentle/gentle need to be executed to get the language model files, decoding graph and audio file speech features.
-
-	-> Start with keeping:
+	-> Following files can be found in gentle/initial, gentle/model, gentle/lexicon but if you want to use your own data, feel free to replace those files in the directories. 
 	
 		1. audio.wav and audio.txt files inside gentle/initial/
 		2. final.mdl and tree inside gentle/model
@@ -55,3 +64,4 @@
 	proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
 	5. Produce JSON files for the CTM files inside proto_dir/json
 
+**This directory contains the work done under GSoC 2019 towards extending Gentle to more languages.**
