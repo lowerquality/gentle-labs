@@ -13,10 +13,13 @@ This documentation allows you to align a Russian-language text file to a Russian
 	Once you have run `make -j numJobs` successfully, return to this page.
 	
 2. Install Gentle:
+
 	`git clone https://github.com/lowerquality/gentle.git`
 	Then follow installation instruction(#3) at https://github.com/lowerquality/gentle for OS X & Linux systems.
 	
-3. Getting this repo on your system: `git clone https://github.com/shreya2111/gentle-labs.git`. After this you have a `gentle` directory inside `gentle-labs/v2`
+3. Getting this repo on your system: 
+
+	`git clone https://github.com/shreya2111/gentle-labs.git`. After this you have a `gentle` directory inside `gentle-labs/v2`
 
 4. Place that `gentle` directory as a recipe in Kaldi path inside `kaldi/egs/` and copy scripts inside `gentle/gentle` directory to Gentle tool inside `gentle/gentle/'
 	
