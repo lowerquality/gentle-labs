@@ -21,50 +21,25 @@ This documentation allows you to align a Russian-language text file to a Russian
 
 	`git clone https://github.com/shreya2111/gentle-labs.git`. After this you have a `gentle` directory inside `gentle-labs/v2`
 
-4. Place that `gentle` directory as a recipe in Kaldi path inside `kaldi/egs/` and copy scripts inside `gentle/gentle` directory to Gentle tool inside `gentle/gentle/'
+4. Stiching it all together:
 	
-	The codes inside gentle/scripts/ and gentle/gentle will be executed to get the language model files, decoding graph and audio file speech features. 
-
-	-> Following files can be found in gentle/initial, gentle/model, gentle/lexicon but if you want to use your own data, feel free to replace those files in the directories. 
+	kaldi_path: path to pristine copy of Kaldi
+	gentle_path: path to pristine copy of Gentle
 	
-		1. audio.wav and audio.txt files inside gentle/initial/
-		2. final.mdl and tree inside gentle/model
-		3. lexicon.txt inside gentle/lexicon/
-		
-	-> run gentle/scripts/initialize.py with correct arguments (look into the script for usage)[TO DO: usage info]
+	on shell execute following lines, 
+	```
+	cd gentle-labs/v2/gentle/
+	python3 scripts/main.py audio_path utterance_path kaldi_path gentle_path data_dir path_pre-trained_model lexicon_for_the_langauge
+	> Example
+		`python3 scripts/main.py path/audio.wav /path/utterance.txt kaldi_path gentle_path path/kaldi/egs/gentle/data /path/kaldi/egs/gentle/trained_model+lexicon /path/kaldi/egs/gentle/trained_model+lexicon/lexicon.txt`
 	
-	-> Automated language model generation
+	```		
+	OR 
 	
-	run gentle/gentle/generateLM.py with correct arguments.[TO DO: usage info]
+	Option 1: use singularity recipe placed [here](https://github.com/shreya2111/gentle-singularity) to build the image and run it on singualrity shell following commands given in the ReadMe. 
+	Option 2: directly use pre-built Singularity image here on drive [Singularity image](https://drive.google.com/drive/folders/1tt6xWZBODXElJm7aijcRDDTvglDYCHCF?usp=sharing)
 	
-	your proto_dir will be 'gentle/data'
-
-	Steps are:
-
-		1. inside proto_dir/dict : Lexicon and phones files get created
-
-		2. prep_lang.py which will use proto_dir/dict/ files to generate L.fst etc inside proto_dir/langdir 
-
-		# validate_dict_dir
-		# this call expects that all the language, dictionary, input, steps and utils will reside in 'gentle'
-		# 'gentle' will reside in kaldi/egs as a recipe
-
-
-		3. Used gentle language_model codebase to generate HCLG.fst inside proto_dir/tdnn_7b_chain_online/graph_pp
-		4. Also, copy final.mdl, tree to gentle/model/ and HCLG.fst to gentle/model/graph
-		5. Also copies proto_dir/langdir/* to proto_dir/tdnn_7b_chain_online/graph_pp
-
-
-	-> Automate decoding process: 
-	run automatedDecoding.py with correct args [TO DO: usage info]
-
-	Steps are:
-
-	1. Generate inputs like utt2spk, wav.scp etc inside proto_dir/feats/
-	2. Generate feats.scp etc inside proto_dir/feats/
-	3. Gmm-latgen output goes in proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
-	4. Produce CTM files for words and phoneme alignments inside 
-	proto_dir/tdnn_7b_chain_online/decode and proto_dir/decode
-	5. Produce JSON files for the CTM files inside proto_dir/json
+5. More on `singularity pull` and `singularity bind` coming up! [TO DO]
+6. Training German ASR & building custom language model to do automated time-alignment coming up soon [TO DO]
 
 **This directory contains the work done under GSoC 2019 towards extending Gentle to more languages.**
