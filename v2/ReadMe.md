@@ -28,12 +28,12 @@ This documentation allows you to align a Russian-language text file to a Russian
 	
 	on shell execute following lines, 
 	```
-	cd gentle-labs/v2/gentle/
-	python3 scripts/main.py audio_path utterance_path kaldi_path gentle_path data_dir path_pre-trained_model lexicon_for_the_langauge
-	> Example
-		`python3 scripts/main.py path/audio.wav /path/utterance.txt kaldi_path gentle_path path/kaldi/egs/gentle/data /path/kaldi/egs/gentle/trained_model+lexicon /path/kaldi/egs/gentle/trained_model+lexicon/lexicon.txt`
+	`cd gentle-labs/v2/gentle/`
+	`python3 scripts/main.py path/audio.wav /path/utterance.txt kaldi_path gentle_path path/kaldi/egs/gentle/data /path/kaldi/egs/gentle/trained_model+lexicon /path/kaldi/egs/gentle/trained_model+lexicon/lexicon.txt`
+	```	
+	to better understand the args in the python call above: 
+	`python3 scripts/main.py audio_path utterance_path kaldi_path gentle_path data_dir path_pre-trained_model lexicon_for_the_langauge`
 	
-	```		
 	OR 
 	
 	Option 1: use singularity recipe placed [here](https://github.com/shreya2111/gentle-singularity) to build the image and run it on singualrity shell following commands given in the ReadMe. 
