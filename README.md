@@ -1,7 +1,7 @@
 ## Project Overview:
  > The project is about extending an existing text-to-speech forced aligner to more languages. The tool that I am working on, known as Gentle, is a forced aligner for speech; it is an open source tool developed by a number of people from all around the world. One main author is Robert M. Ochshorn, my mentor for the project. The tool takes a sentence as input along with its audio data, utilizes the audio data in an automatic speech recognition (ASR) model to predict a transcription as well as time-aligns the words to the time when those were spoken in the speech.
 
-
+## Code for time-alignment of Russian audio data written during GSoC 2019 is placed in `gentle-labs/v2/`
 
 ## Gentle Experiments
 
