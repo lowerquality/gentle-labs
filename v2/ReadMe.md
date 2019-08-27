@@ -38,8 +38,11 @@ This documentation allows you to align a Russian-language text file to a Russian
 	
 	Option 1: use singularity recipe placed [here](https://github.com/shreya2111/gentle-singularity) to build the image and run it on singualrity shell following commands given in the ReadMe. 
 	Option 2: directly use pre-built Singularity image here on drive [Singularity image](https://drive.google.com/drive/folders/1tt6xWZBODXElJm7aijcRDDTvglDYCHCF?usp=sharing)
-	
-5. More on `singularity pull` and `singularity bind` coming up! [TO DO]
-6. Training German ASR & building custom language model to do automated time-alignment coming up soon [TO DO]
+
+5. Find the generated time-alignment in kaldi/egs/gentle/data/decode & json format time-alignment in kaldi/egs/gentle/data/json
+
+6. More on `singularity pull` and `singularity bind` coming up! [TO DO]
+
+7. Training German ASR & building custom language model to do automated time-alignment coming up soon [TO DO]
 
 **This directory contains the work done under GSoC 2019 towards extending Gentle to more languages.**
