@@ -1,0 +1,773 @@
+!SIL !SIL SIL_S
+<eps> <eps> SIL
+аванс аванс a_B v_I aa_I n_I s_E
+ад ад aa_B t_E
+алексей алексей a_B ll_I i_I k_I ss_I je_I j_E
+американской американской a_B mm_I i_I rr_I i_I k_I aa_I n_I s_I k_I ay_I j_E
+апельсинового апельсинового a_B pp_I i_I ll_I ss_I ii_I n_I ay_I v_I ay_I v_I ay_E
+аппарат аппарат a_B p_I a_I r_I aa_I t_E
+аппараты аппараты a_B p_I a_I r_I aa_I t_I y_E
+арчибальд арчибальд a_B r_I ch_I i_I b_I aa_I ll_I t_E
+астрономов астрономов a_B s_I t_I r_I a_I n_I oo_I m_I ay_I f_E
+атлантическом атлантическом a_B t_I l_I a_I nn_I tt_I ii_I ch_I i_I s_I k_I ay_I m_E
+африки африки aa_B f_I rr_I i_I kk_I i_E
+ах ах aa_B h_E
+багровые багровые b_B a_I g_I r_I oo_I v_I y_I i_E
+баки баки b_B aa_I kk_I i_E
+балки балки b_B aa_I l_I kk_I i_E
+барышни барышни b_B aa_I r_I y_I sh_I nn_I i_E
+бежали бежали bb_B i_I zh_I aa_I ll_I i_E
+без без bb_B je_I s_E
+безвоздушном безвоздушном bb_B i_I z_I v_I a_I z_I d_I uu_I sh_I n_I ay_I m_E
+бездны бездны bb_B je_I z_I n_I y_E
+безнадёжное безнадёжное bb_B i_I z_I n_I a_I dd_I jo_I zh_I n_I ay_I i_E
+безумном безумном bb_B i_I z_I uu_I m_I n_I ay_I m_E
+берега берега bb_B je_I rr_I i_I g_I ay_E
+берлин берлин bb_B i_I r_I ll_I ii_I n_E
+биться биться bb_B ii_I c_I ay_E
+бледный бледный b_B ll_I je_I d_I n_I y_I j_E
+блеснуло блеснуло b_B ll_I i_I s_I n_I uu_I l_I ay_E
+ближайшей ближайшей b_B ll_I i_I zh_I aa_I j_I sh_I y_I j_E
+боже боже b_B oo_I zh_I y_E
+более более b_B oo_I ll_I i_I i_E
+большую большую b_B oo_I ll_I sh_I u_I uj_E
+босую босую b_B a_I s_I uu_I uj_E
+братья братья b_B r_I aa_I tt_I j_I i_E
+бубнили бубнили b_B u_I b_I nn_I ii_I ll_I i_E
+будет будет b_B uu_I dd_I i_I t_E
+бурому бурому b_B uu_I r_I ay_I m_I u_E
+бурь бурь b_B uu_I rr_E
+буфер буфер b_B uu_I ff_I i_I r_E
+был был b_B yy_I l_E
+была была b_B y_I l_I aa_E
+были были b_B y_I ll_I i_E
+было было b_B yy_I l_I ay_E
+быть быть b_B yy_I tt_E
+бьётся бьётся bb_B j_I jo_I c_I ay_E
+в в v_B y_E
+важнее важнее v_B a_I zh_I nn_I je_I i_E
+важнейшие важнейшие v_B a_I zh_I nn_I je_I j_I sh_I y_I i_E
+вам вам v_B aa_I m_E
+варёную варёную v_B a_I rr_I jo_I n_I u_I uj_E
+вашу вашу v_B aa_I sh_I u_E
+вглядывался вглядывался v_B g_I ll_I ja_I d_I y_I v_I ay_I l_I ss_I i_E
+ведь ведь vv_B je_I tt_E
+ведёрке ведёрке vv_B i_I dd_I jo_I r_I kk_I i_E
+веки веки vv_B je_I kk_I i_E
+верёвочки верёвочки vv_B i_I rr_I jo_I v_I ay_I ch_I kk_I i_E
+вестибюль вестибюль vv_B i_I ss_I tt_I i_I bb_I ju_I ll_E
+весь весь vv_B je_I ss_E
+весёлая весёлая vv_B i_I ss_I jo_I l_I ay_I i_E
+весёлыми весёлыми vv_B i_I ss_I jo_I l_I y_I mm_I i_E
+ветер ветер vv_B je_I tt_I i_I r_E
+вечеру вечеру vv_B je_I ch_I i_I r_I u_E
+вечной вечной vv_B je_I ch_I n_I ay_I j_E
+взгляды взгляды v_B z_I g_I ll_I ja_I d_I y_E
+взлохмаченная взлохмаченная v_B z_I l_I a_I h_I m_I aa_I ch_I i_I n_I ay_I i_E
+взошёл взошёл v_B z_I a_I sh_I oo_I l_E
+видеть видеть vv_B ii_I dd_I i_I tt_E
+видимо видимо vv_B ii_I dd_I i_I m_I ay_E
+видна видна vv_B ii_I d_I n_I ay_E
+видны видны vv_B ii_I d_I n_I y_E
+виски виски vv_B ii_I s_I kk_I i_E
+вкратце вкратце f_B k_I r_I aa_I c_I y_E
+влетит влетит v_B ll_I i_I tt_I ii_I t_E
+внутренность внутренность v_B n_I uu_I t_I rr_I i_I n_I ay_I ss_I tt_E
+внутри внутри v_B n_I u_I t_I rr_I ii_E
+внутрь внутрь v_B n_I uu_I t_I rr_E
+во во v_B oo_E
+водя водя v_B a_I dd_I ja_E
+воздух воздух v_B oo_I z_I d_I u_I h_E
+возможном возможном v_B a_I z_I m_I oo_I zh_I n_I ay_I m_E
+волнистых волнистых v_B a_I l_I nn_I ii_I s_I t_I y_I h_E
+волос волос v_B oo_I l_I ay_I s_E
+вопрос вопрос v_B a_I p_I r_I oo_I s_E
+ворона ворона v_B oo_I r_I ay_I n_I ay_E
+ворот ворот v_B oo_I r_I ay_I t_E
+восемьдесят восемьдесят v_B oo_I ss_I i_I mm_I dd_I i_I ss_I i_I t_E
+востоку востоку v_B a_I s_I t_I oo_I k_I u_E
+восьми восьми v_B a_I ss_I mm_I ii_E
+вот вот v_B oo_I t_E
+вошли вошли v_B a_I sh_I ll_I ii_E
+вперёд вперёд f_B pp_I i_I rr_I jo_I t_E
+время время v_B rr_I je_I mm_I i_E
+все все f_B ss_I jo_E
+всего всего f_B ss_I i_I v_I oo_E
+вселенной вселенной f_B ss_I i_I ll_I je_I n_I ay_I j_E
+вспыхнул вспыхнул f_B s_I p_I yy_I h_I n_I u_I l_E
+всём всём f_B ss_I jo_I m_E
+второго второго f_B t_I a_I r_I oo_I v_I ay_E
+второй второй f_B t_I a_I r_I oo_I j_E
+втянули втянули f_B tt_I i_I n_I uu_I ll_I i_E
+входил входил f_B h_I a_I dd_I ii_I l_E
+выбегали выбегали v_B yy_I bb_I i_I g_I ay_I ll_I i_E
+выглядывала выглядывала v_B y_I g_I ll_I ja_I d_I y_I v_I ay_I l_I ay_E
+выдать выдать v_B yy_I d_I ay_I tt_E
+выключил выключил v_B yy_I k_I ll_I uj_I ch_I i_I l_E
+высокую высокую v_B y_I s_I oo_I k_I u_I uj_E
+высоты высоты v_B y_I s_I oo_I t_I y_E
+высохшие высохшие v_B yy_I s_I ay_I h_I sh_I y_I i_E
+вытащил вытащил v_B yy_I t_I ay_I sch_I i_I l_E
+вытягивая вытягивая v_B y_I tt_I ja_I gg_I i_I v_I ay_I i_E
+вязли вязли vv_B ja_I z_I ll_I i_E
+вёрст вёрст vv_B jo_I r_I s_I t_E
+газеты газеты g_B a_I zz_I je_I t_I y_E
+гвоздиками гвоздиками g_B v_I oo_I z_I dd_I i_I k_I ay_I mm_I i_E
+где где g_B dd_I je_E
+геометрически геометрически gg_B i_I ay_I mm_I i_I t_I rr_I ii_I ch_I i_I s_I kk_I i_E
+гладких гладких g_B l_I aa_I t_I kk_I i_I h_E
+глаз глаз g_B l_I aa_I s_E
+глаза глаза g_B l_I aa_I z_I ay_E
+глазков глазков g_B l_I a_I s_I k_I oo_I f_E
+глубокие глубокие g_B l_I u_I b_I oo_I kk_I i_I i_E
+глядел глядел g_B ll_I i_I dd_I je_I l_E
+глядели глядели g_B ll_I i_I dd_I je_I ll_I i_E
+гневно гневно g_B nn_I je_I v_I n_I ay_E
+говор говор g_B oo_I v_I ay_I r_E
+голова голова g_B ay_I l_I a_I v_I aa_E
+голове голове g_B ay_I l_I a_I vv_I je_E
+головой головой g_B ay_I l_I a_I v_I oo_I j_E
+горела горела g_B a_I rr_I je_I l_I ay_E
+горелому горелому g_B a_I rr_I je_I l_I ay_I m_I u_E
+города города g_B oo_I r_I ay_I d_I ay_E
+городе городе g_B oo_I r_I ay_I dd_I i_E
+горошком горошком g_B a_I r_I oo_I sh_I k_I ay_I m_E
+грудь грудь g_B r_I uu_I tt_E
+группы группы g_B r_I uu_I p_I y_E
+грязной грязной g_B rr_I ja_I z_I n_I ay_I j_E
+губами губами g_B uu_I b_I ay_I mm_I i_E
+гусев гусев g_B uu_I ss_I i_I f_E
+гусеву гусеву g_B uu_I ss_I i_I v_I u_E
+гуще гуще g_B uu_I sch_I i_E
+да да d_B aa_E
+давно давно d_B a_I v_I n_I oo_E
+даже даже d_B aa_I zh_I y_E
+две две d_B vv_I je_E
+двенадцати двенадцати d_B vv_I i_I n_I aa_I c_I ay_I tt_I i_E
+дверца дверца d_B vv_I je_I r_I c_I ay_E
+дверь дверь d_B vv_I je_I rr_E
+двести двести d_B vv_I je_I ss_I tt_I i_E
+двигатель двигатель d_B vv_I ii_I g_I ay_I tt_I i_I ll_E
+движения движения d_B vv_I i_I zh_I ee_I nn_I i_I i_E
+движущего движущего d_B vv_I ii_I zh_I u_I sch_I i_I v_I ay_E
+двойная двойная d_B v_I a_I j_I n_I aa_I i_E
+дела дела dd_B je_I l_I ay_E
+деньгами деньгами dd_B je_I nn_I g_I ay_I mm_I i_E
+деньги деньги dd_B je_I nn_I gg_I i_E
+деревню деревню dd_B i_I rr_I je_I v_I nn_I uj_E
+деревьев деревьев dd_B i_I rr_I je_I vv_I j_I i_I f_E
+деревьям деревьям dd_B i_I rr_I je_I vv_I j_I i_I m_E
+держал держал dd_B i_I r_I zh_I aa_I l_E
+длинные длинные d_B ll_I ii_I n_I y_I i_E
+для для d_B ll_I ja_E
+до до d_B oo_E
+долго долго d_B oo_I l_I g_I ay_E
+дома дома d_B oo_I m_I ay_E
+доме доме d_B oo_I mm_I i_E
+домов домов d_B a_I m_I oo_I f_E
+досками досками d_B oo_I s_I k_I ay_I mm_I i_E
+другому другому d_B r_I u_I g_I oo_I m_I u_E
+думали думали d_B uu_I m_I ay_I ll_I i_E
+дышалось дышалось d_B y_I sh_I aa_I l_I ay_I ss_E
+его его j_B i_I v_I oo_E
+едва едва j_B i_I d_I v_I aa_E
+единственные единственные j_B i_I dd_I ii_I n_I s_I t_I vv_I i_I n_I y_I i_E
+ему ему j_B i_I m_I uu_E
+есть есть j_B je_I ss_I tt_E
+ехать ехать j_B je_I h_I ay_I tt_E
+её её j_B i_I j_I jo_E
+жадно жадно zh_B aa_I d_I n_I ay_E
+жалованье жалованье zh_B aa_I l_I ay_I v_I ay_I nn_I j_I i_E
+ждать ждать zh_B d_I aa_I tt_E
+же же zh_B y_E
+женщина женщина zh_B ee_I nn_I sch_I i_I n_I ay_E
+женщину женщину zh_B ee_I nn_I sch_I i_I n_I u_E
+женщины женщины zh_B ee_I nn_I sch_I i_I n_I y_E
+жестяном жестяном zh_B y_I ss_I tt_I i_I n_I oo_I m_E
+животные животные zh_B y_I v_I oo_I t_I n_I y_I i_E
+жили жили zh_B yy_I ll_I i_E
+жёлтой жёлтой zh_B oo_I l_I t_I ay_I j_E
+за за z_B aa_E
+забранные забранные z_B aa_I b_I r_I ay_I n_I y_I i_E
+заброшена заброшена z_B a_I b_I r_I oo_I sh_I y_I n_I ay_E
+заброшенном заброшенном z_B a_I b_I r_I oo_I sh_I y_I n_I ay_I m_E
+заваленном заваленном z_B a_I v_I aa_I ll_I i_I n_I ay_I m_E
+завела завела z_B ay_I vv_I i_I l_I aa_E
+завтра завтра z_B aa_I f_I t_I r_I ay_E
+заката заката z_B a_I k_I aa_I t_I ay_E
+заколоченные заколоченные z_B ay_I k_I a_I l_I oo_I ch_I i_I n_I y_I i_E
+закричал закричал z_B ay_I k_I rr_I i_I ch_I ja_I l_E
+закрытые закрытые z_B a_I k_I r_I yy_I t_I y_I i_E
+залу залу z_B aa_I l_I u_E
+запад запад z_B aa_I p_I ay_I t_E
+западу западу z_B aa_I p_I ay_I d_I u_E
+зарабатываю зарабатываю z_B ay_I r_I a_I b_I aa_I t_I y_I v_I ay_I uj_E
+заросли заросли z_B aa_I r_I ay_I s_I ll_I i_E
+зашагал зашагал z_B ay_I sh_I a_I g_I aa_I l_E
+звёзд звёзд z_B vv_I jo_I s_I t_E
+звёздную звёздную z_B vv_I jo_I z_I n_I u_I uj_E
+здесь здесь z_B dd_I je_I ss_E
+зеленью зеленью zz_B je_I ll_I i_I nn_I j_I uj_E
+земле земле zz_B i_I m_I ll_I je_E
+земли земли zz_B je_I m_I ll_I i_E
+землю землю zz_B je_I m_I ll_I uj_E
+земля земля zz_B i_I m_I ll_I ja_E
+земную земную zz_B i_I m_I n_I uu_I uj_E
+зовёт зовёт z_B a_I vv_I jo_I t_E
+золото золото z_B oo_I l_I ay_I t_I ay_E
+зрелища зрелища z_B rr_I je_I ll_I i_I sch_I i_E
+зубами зубами z_B u_I b_I aa_I mm_I i_E
+зубах зубах z_B u_I b_I aa_I h_E
+зубчатым зубчатым z_B u_I p_I ch_I ja_I t_I y_I m_E
+и и ii_S
+иванович иванович i_B v_I aa_I n_I ay_I vv_I i_I ch_E
+идти идти i_B t_I tt_I ii_E
+из из ii_B s_E
+или или ii_B ll_I i_E
+именно именно ii_B mm_I i_I n_I ay_E
+инженера инженера i_B n_I zh_I y_I nn_I je_I r_I ay_E
+инструментов инструментов i_B n_I s_I t_I r_I u_I mm_I je_I n_I t_I ay_I f_E
+иные иные i_B n_I yy_I i_E
+искателем искателем i_B s_I k_I aa_I tt_I i_I ll_I i_I m_E
+искоркой искоркой ii_B s_I k_I ay_I r_I k_I ay_I j_E
+истребить истребить i_B s_I t_I rr_I i_I bb_I ii_I tt_E
+их их ii_B h_E
+к к k_B y_E
+казались казались k_B a_I z_I aa_I ll_I i_I ss_E
+казалось казалось k_B a_I z_I aa_I l_I ay_I ss_E
+как как k_B aa_I k_E
+какие какие k_B a_I kk_I ii_I i_E
+каменных каменных k_B aa_I mm_I i_I n_I y_I h_E
+каналы каналы k_B a_I n_I aa_I l_I y_E
+карие карие k_B aa_I rr_I i_I i_E
+картошку картошку k_B a_I r_I t_I oo_I sh_I k_I u_E
+катей катей k_B aa_I tt_I i_I j_E
+кати кати k_B a_I tt_I ii_E
+катя катя k_B a_I tt_I ja_E
+квадратные квадратные k_B v_I a_I d_I r_I aa_I t_I n_I y_I i_E
+квартиру квартиру k_B v_I a_I r_I tt_I ii_I r_I u_E
+кивнул кивнул kk_B i_I v_I n_I uu_I l_E
+кидались кидались kk_B i_I d_I aa_I ll_I i_I ss_E
+кинулся кинулся kk_B ii_I n_I u_I l_I ss_I i_E
+кислородные кислородные kk_B i_I s_I l_I a_I r_I oo_I d_I n_I y_I i_E
+кладу кладу k_B l_I aa_I d_I u_E
+клубки клубки k_B l_I u_I p_I kk_I ii_E
+клубы клубы k_B l_I uu_I b_I y_E
+клёпкой клёпкой k_B ll_I jo_I p_I k_I ay_I j_E
+книгами книгами k_B nn_I ii_I g_I ay_I mm_I i_E
+кобуру кобуру k_B ay_I b_I u_I r_I uu_E
+когда когда k_B a_I g_I d_I aa_E
+кожаного кожаного k_B oo_I zh_I ay_I n_I ay_I v_I ay_E
+кожи кожи k_B oo_I zh_I y_E
+колючую колючую k_B a_I ll_I ju_I ch_I uj_I uj_E
+комнате комнате k_B oo_I m_I n_I ay_I tt_I i_E
+конец конец k_B a_I nn_I je_I c_E
+конусе конусе k_B oo_I n_I u_I ss_I i_E
+концом концом k_B a_I n_I c_I oo_I m_E
+концу концу k_B a_I n_I c_I uu_E
+корзинку корзинку k_B a_I r_I zz_I ii_I n_I k_I u_E
+коричневую коричневую k_B a_I rr_I ii_I ch_I nn_I i_I v_I u_I uj_E
+корреспондент корреспондент k_B ay_I rr_I i_I s_I p_I a_I n_I dd_I je_I n_I t_E
+корточках корточках k_B oo_I r_I t_I ay_I ch_I k_I ay_I h_E
+кору кору k_B a_I r_I uu_E
+красный красный k_B r_I aa_I s_I n_I y_I j_E
+крестом крестом k_B rr_I i_I s_I t_I oo_I m_E
+крикнуть крикнуть k_B rr_I ii_I k_I n_I u_I tt_E
+кровь кровь k_B r_I oo_I ff_E
+круглая круглая k_B r_I uu_I g_I l_I ay_I i_E
+круглое круглое k_B r_I uu_I g_I l_I ay_I i_E
+кто кто k_B t_I oo_E
+купола купола k_B uu_I p_I ay_I l_I ay_E
+куче куче k_B uu_I ch_I i_E
+кучки кучки k_B uu_I ch_I kk_I i_E
+кущи кущи k_B uu_I sch_I i_E
+лампочка лампочка l_B aa_I m_I p_I ay_I ch_I k_I ay_E
+легко легко ll_B i_I h_I k_I oo_E
+ледяную ледяную ll_B i_I dd_I i_I n_I uu_I uj_E
+лежавший лежавший ll_B i_I zh_I aa_I f_I sh_I y_I j_E
+лежали лежали ll_B i_I zh_I aa_I ll_I i_E
+лежащей лежащей ll_B i_I zh_I aa_I sch_I i_I j_E
+ленивые ленивые ll_B i_I nn_I ii_I v_I y_I i_E
+лесенку лесенку ll_B je_I ss_I i_I n_I k_I u_E
+лесов лесов ll_B i_I s_I oo_I f_E
+лет лет ll_B je_I t_E
+летел летел ll_B i_I tt_I je_I l_E
+летела летела ll_B i_I tt_I je_I l_I ay_E
+лететь лететь ll_B i_I tt_I je_I tt_E
+ли ли ll_B i_E
+линий линий ll_B ii_I nn_I i_I j_E
+лицо лицо ll_B i_I c_I oo_E
+лоб лоб l_B oo_I p_E
+ловким ловким l_B oo_I f_I kk_I i_I m_E
+лось лось l_B oo_I ss_E
+лося лося l_B a_I ss_I ja_E
+лупить лупить l_B u_I pp_I ii_I tt_E
+луч луч l_B uu_I ch_E
+лучи лучи l_B u_I ch_I ii_E
+льды льды ll_B d_I yy_E
+любви любви ll_B uj_I b_I vv_I ii_E
+людей людей ll_B uj_I dd_I je_I j_E
+люка люка ll_B ju_I k_I ay_E
+лёгкими лёгкими ll_B jo_I h_I kk_I i_I mm_I i_E
+магнитных магнитных m_B a_I g_I nn_I ii_I t_I n_I y_I h_E
+маленький маленький m_B aa_I ll_I i_I nn_I kk_I i_I j_E
+мало мало m_B aa_I l_I ay_E
+мальчик мальчик m_B aa_I ll_I ch_I i_I k_E
+марс марс m_B aa_I r_I s_E
+марса марса m_B aa_I r_I s_I ay_E
+марсе марсе m_B aa_I r_I ss_I i_E
+массивной массивной m_B a_I ss_I ii_I v_I n_I ay_I j_E
+материк материк m_B ay_I tt_I i_I rr_I ii_I k_E
+матерью матерью m_B aa_I tt_I i_I rr_I j_I uj_E
+маша маша m_B aa_I sh_I ay_E
+машиной машиной m_B a_I sh_I yy_I n_I ay_I j_E
+медленно медленно mm_B je_I d_I ll_I i_I n_I ay_E
+медные медные mm_B je_I d_I n_I y_I i_E
+между между mm_B je_I zh_I d_I u_E
+менее менее mm_B je_I nn_I i_I i_E
+меня меня mm_B i_I nn_I ja_E
+меняющиеся меняющиеся mm_B i_I nn_I ja_I uj_I sch_I i_I i_I ss_I i_E
+металлическая металлическая mm_B i_I t_I a_I ll_I ii_I ch_I i_I s_I k_I ay_I i_E
+метров метров mm_B je_I t_I r_I ay_I f_E
+механизм механизм mm_B i_I h_I a_I nn_I ii_I z_I m_E
+механизма механизма mm_B i_I h_I a_I nn_I ii_I z_I m_I ay_E
+мимо мимо mm_B ii_I m_I ay_E
+минули минули mm_B i_I n_I uu_I ll_I i_E
+минуту минуту mm_B i_I n_I uu_I t_I u_E
+мириады мириады mm_B i_I rr_I i_I aa_I d_I y_E
+миров миров mm_B i_I r_I oo_I f_E
+младенцами младенцами m_B l_I a_I dd_I je_I n_I c_I ay_I mm_I i_E
+многоэтажных многоэтажных m_B n_I ay_I g_I ay_I y_I t_I aa_I zh_I n_I y_I h_E
+могла могла m_B a_I g_I l_I aa_E
+могли могли m_B a_I g_I ll_I ii_E
+может может m_B oo_I zh_I y_I t_E
+можете можете m_B oo_I zh_I y_I tt_I i_E
+можно можно m_B oo_I zh_I n_I ay_E
+мой мой m_B oo_I j_E
+молодую молодую m_B ay_I l_I a_I d_I uu_I uj_E
+молчании молчании m_B a_I l_I ch_I ja_I nn_I i_I i_E
+моря моря m_B oo_I rr_I i_E
+москвы москвы m_B a_I s_I k_I v_I yy_E
+моё моё m_B a_I j_I jo_E
+мужеством мужеством m_B uu_I zh_I y_I s_I t_I v_I ay_I m_E
+мужикам мужикам m_B u_I zh_I y_I k_I aa_I m_E
+мучительно мучительно m_B u_I ch_I ii_I tt_I i_I ll_I n_I ay_E
+мы мы m_B yy_E
+мышь мышь m_B yy_I sh_E
+мягкой мягкой mm_B ja_I h_I k_I ay_I j_E
+на на n_B aa_E
+набережной набережной n_B aa_I bb_I i_I rr_I i_I zh_I n_I ay_I j_E
+набережную набережную n_B aa_I bb_I i_I rr_I i_I zh_I n_I u_I uj_E
+наблюдения наблюдения n_B ay_I b_I ll_I uj_I dd_I je_I nn_I i_I i_E
+нагнулся нагнулся n_B a_I g_I n_I uu_I l_I ss_I i_E
+над над n_B ay_I d_E
+надоедать надоедать n_B ay_I d_I ay_I i_I d_I aa_I tt_E
+надоело надоело n_B ay_I d_I a_I j_I je_I l_I ay_E
+назад назад n_B a_I z_I aa_I t_E
+накинул накинул n_B a_I kk_I ii_I n_I u_I l_E
+направлению направлению n_B ay_I p_I r_I a_I v_I ll_I je_I nn_I i_I uj_E
+находились находились n_B ay_I h_I a_I dd_I ii_I ll_I i_I ss_E
+начал начал n_B aa_I ch_I i_I l_E
+нашёл нашёл n_B a_I sh_I oo_I l_E
+не не nn_B je_E
+небольшая небольшая nn_B i_I b_I a_I ll_I sh_I aa_I i_E
+небольшой небольшой nn_B i_I b_I a_I ll_I sh_I oo_I j_E
+неве неве nn_B i_I vv_I je_E
+недолго недолго nn_B i_I d_I oo_I l_I g_I ay_E
+нежилыми нежилыми nn_B i_I zh_I y_I l_I yy_I mm_I i_E
+ней ней nn_B je_I j_E
+нему нему nn_B i_I m_I uu_E
+необыкновенного необыкновенного nn_B i_I ay_I b_I y_I k_I n_I a_I vv_I je_I n_I ay_I v_I ay_E
+необычайно необычайно nn_B i_I ay_I b_I y_I ch_I ja_I j_I n_I ay_E
+нерождённых нерождённых nn_B i_I r_I a_I zh_I dd_I jo_I n_I y_I h_E
+несколько несколько nn_B je_I s_I k_I ay_I ll_I k_I ay_E
+неширокие неширокие nn_B i_I sh_I y_I r_I oo_I kk_I i_I i_E
+неё неё nn_B i_I j_I jo_E
+ни ни nn_B ii_E
+низкое низкое nn_B ii_I s_I k_I ay_I i_E
+никогда никогда nn_B i_I k_I a_I g_I d_I aa_E
+них них nn_B ii_I h_E
+но но n_B oo_E
+ног ног n_B oo_I k_E
+ноги ноги n_B oo_I gg_I i_E
+ногой ногой n_B a_I g_I oo_I j_E
+нос нос n_B oo_I s_E
+носятся носятся n_B oo_I ss_I i_I c_I ay_E
+ночевал ночевал n_B ay_I ch_I i_I v_I aa_I l_E
+ну ну n_B uu_E
+нём нём nn_B jo_I m_E
+о о oo_S
+об об oo_B p_E
+обеспечить обеспечить a_B bb_I i_I s_I pp_I je_I ch_I i_I tt_E
+облака облака oo_B b_I l_I ay_I k_I ay_E
+обмотках обмотках a_B b_I m_I oo_I t_I k_I ay_I h_E
+обоз обоз a_B b_I oo_I s_E
+общих общих oo_B p_I sch_I i_I h_E
+объявление объявление a_B b_I j_I i_I v_I ll_I je_I nn_I i_I i_E
+объявлением объявлением a_B b_I j_I i_I v_I ll_I je_I nn_I i_I i_I m_E
+огибали огибали a_B gg_I i_I b_I aa_I ll_I i_E
+оглянул оглянул a_B g_I ll_I i_I n_I uu_I l_E
+огненные огненные oo_B g_I nn_I i_I n_I y_I i_E
+огня огня a_B g_I nn_I ja_E
+оголённую оголённую a_B g_I a_I ll_I jo_I n_I u_I uj_E
+огромном огромном a_B g_I r_I oo_I m_I n_I ay_I m_E
+одежде одежде a_B dd_I je_I zh_I dd_I i_E
+один один a_B dd_I ii_I n_E
+одиночество одиночество a_B dd_I i_I n_I oo_I ch_I i_I s_I t_I v_I ay_E
+одна одна a_B d_I n_I aa_E
+одни одни a_B d_I nn_I ii_E
+одной одной a_B d_I n_I oo_I j_E
+ожидал ожидал a_B zh_I y_I d_I aa_I l_E
+ожидающей ожидающей a_B zh_I y_I d_I aa_I uj_I sch_I i_I j_E
+ожила ожила a_B zh_I y_I l_I aa_E
+оказался оказался a_B k_I a_I z_I aa_I l_I ss_I i_E
+океане океане a_B kk_I i_I aa_I nn_I i_E
+океаны океаны a_B kk_I i_I aa_I n_I y_E
+окна окна oo_B k_I n_I ay_E
+окон окон a_B k_I oo_I n_E
+окоченелый окоченелый a_B k_I ay_I ch_I i_I nn_I je_I l_I y_I j_E
+окружала окружала a_B k_I r_I u_I zh_I aa_I l_I ay_E
+окунул окунул a_B k_I u_I n_I uu_I l_E
+он он oo_B n_E
+она она a_B n_I aa_E
+они они a_B nn_I ii_E
+определил определил a_B p_I rr_I i_I dd_I i_I ll_I ii_I l_E
+опрятном опрятном a_B p_I rr_I ja_I t_I n_I ay_I m_E
+опускался опускался a_B p_I u_I s_I k_I aa_I l_I ss_I i_E
+оранжевые оранжевые a_B r_I aa_I n_I zh_I y_I v_I y_I i_E
+освещён освещён a_B s_I vv_I i_I sch_I jo_I n_E
+освещённая освещённая a_B s_I vv_I i_I sch_I jo_I n_I ay_I i_E
+освещённые освещённые a_B s_I vv_I i_I sch_I jo_I n_I y_I i_E
+оседают оседают a_B ss_I i_I d_I aa_I uj_I t_E
+осенний осенний a_B ss_I je_I nn_I i_I j_E
+осколки осколки a_B s_I k_I oo_I l_I kk_I i_E
+ослепительный ослепительный a_B s_I ll_I i_I pp_I ii_I tt_I i_I ll_I n_I y_I j_E
+остановился остановился a_B s_I t_I ay_I n_I a_I vv_I ii_I l_I ss_I i_E
+остывающих остывающих a_B s_I t_I y_I v_I aa_I uj_I sch_I i_I h_E
+от от oo_B t_E
+отверстие отверстие a_B t_I vv_I je_I r_I ss_I tt_I i_I i_E
+отверстия отверстия a_B t_I vv_I je_I r_I ss_I tt_I i_I i_E
+отец отец a_B tt_I je_I c_E
+отклонил отклонил a_B t_I k_I l_I a_I nn_I ii_I l_E
+открыл открыл a_B t_I k_I r_I yy_I l_E
+отобьём отобьём a_B t_I a_I bb_I j_I jo_I m_E
+оторвался оторвался a_B t_I a_I r_I v_I aa_I l_I ss_I i_E
+отсюда отсюда a_B t_I ss_I ju_I d_I ay_E
+отыскал отыскал a_B t_I y_I s_I k_I aa_I l_E
+очень очень oo_B ch_I i_I nn_E
+падаем падаем p_B aa_I d_I ay_I i_I m_E
+пальто пальто p_B a_I ll_I t_I oo_E
+паслись паслись p_B a_I s_I ll_I ii_I ss_E
+паук паук p_B a_I uu_I k_E
+перед перед pp_B i_I rr_I jo_I t_E
+переливался переливался pp_B i_I rr_I i_I ll_I i_I v_I aa_I l_I ss_I i_E
+перелёт перелёт pp_B i_I rr_I i_I ll_I jo_I t_E
+перелёта перелёта pp_B i_I rr_I i_I ll_I jo_I t_I ay_E
+перепрыгивали перепрыгивали pp_B i_I rr_I i_I p_I r_I yy_I gg_I i_I v_I ay_I ll_I i_E
+переулков переулков pp_B i_I rr_I i_I uu_I l_I k_I ay_I f_E
+песку песку pp_B i_I s_I k_I uu_E
+петербурга петербурга pp_B i_I tt_I i_I r_I b_I uu_I r_I g_I ay_E
+петербургом петербургом pp_B i_I tt_I i_I r_I b_I uu_I r_I g_I ay_I m_E
+план план p_B l_I aa_I n_E
+планет планет p_B l_I a_I nn_I je_I t_E
+платье платье p_B l_I aa_I tt_I j_I i_E
+по по p_B oo_E
+побежал побежал p_B ay_I bb_I i_I zh_I aa_I l_E
+поверхность поверхность p_B a_I vv_I je_I r_I h_I n_I ay_I ss_I tt_E
+погиб погиб p_B oo_I gg_I i_I p_E
+погибших погибших p_B a_I gg_I ii_I p_I sh_I y_I h_E
+поглощения поглощения p_B ay_I g_I l_I a_I sch_I je_I nn_I i_I i_E
+поглядывали поглядывали p_B a_I g_I ll_I ja_I d_I y_I v_I ay_I ll_I i_E
+под под p_B oo_I t_E
+подавая подавая p_B ay_I d_I a_I v_I aa_I i_E
+поднимая поднимая p_B ay_I d_I nn_I i_I m_I aa_I i_E
+поднявшийся поднявшийся p_B a_I d_I nn_I ja_I f_I sh_I y_I j_I ss_I i_E
+поднявшихся поднявшихся p_B a_I d_I nn_I ja_I f_I sh_I y_I h_I ss_I i_E
+подняла подняла p_B ay_I d_I nn_I i_I l_I aa_E
+подушки подушки p_B a_I d_I uu_I sh_I kk_I i_E
+пойму пойму p_B oo_I j_I m_I u_E
+показал показал p_B ay_I k_I a_I z_I aa_I l_E
+покалывало покалывало p_B a_I k_I aa_I l_I y_I v_I ay_I l_I ay_E
+покатился покатился p_B ay_I k_I a_I tt_I ii_I l_I ss_I i_E
+полгода полгода p_B a_I l_I g_I oo_I d_I ay_E
+половинки половинки p_B ay_I l_I a_I vv_I ii_I n_I kk_I i_E
+половиной половиной p_B ay_I l_I a_I vv_I ii_I n_I ay_I j_E
+полосы полосы p_B oo_I l_I ay_I s_I y_E
+полукружий полукружий p_B ay_I l_I u_I k_I r_I uu_I zh_I y_I j_E
+полые полые p_B oo_I l_I y_I i_E
+полюсы полюсы p_B oo_I ll_I uj_I s_I y_E
+полях полях p_B a_I ll_I ja_I h_E
+померли померли p_B oo_I mm_I i_I r_I ll_I i_E
+понемногу понемногу p_B ay_I nn_I i_I m_I n_I oo_I g_I u_E
+попали попали p_B a_I p_I aa_I ll_I i_E
+поперечнике поперечнике p_B ay_I pp_I i_I rr_I je_I ch_I nn_I i_I kk_I i_E
+пор пор p_B oo_I r_E
+пороге пороге p_B a_I r_I oo_I gg_I i_E
+после после p_B oo_I s_I ll_I i_E
+постоянно постоянно p_B ay_I s_I t_I a_I j_I ja_I n_I ay_E
+построен построен p_B a_I s_I t_I r_I oo_I i_I n_E
+потом потом p_B oo_I t_I ay_I m_E
+похожие похожие p_B a_I h_I oo_I zh_I y_I i_E
+почве почве p_B oo_I ch_I vv_I i_E
+пошатнётся пошатнётся p_B ay_I sh_I a_I t_I nn_I jo_I c_I ay_E
+пошла пошла p_B a_I sh_I l_I aa_E
+пошёл пошёл p_B a_I sh_I oo_I l_E
+поэтому поэтому p_B a_I ee_I t_I ay_I m_I u_E
+пояса пояса p_B oo_I i_I s_I ay_E
+правильные правильные p_B r_I aa_I vv_I i_I ll_I n_I y_I i_E
+праха праха p_B r_I aa_I h_I ay_E
+праху праху p_B r_I aa_I h_I u_E
+предложил предложил p_B rr_I i_I d_I l_I a_I zh_I yy_I l_E
+предупредил предупредил p_B rr_I i_I d_I u_I p_I rr_I i_I dd_I ii_I l_E
+приборы приборы p_B rr_I i_I b_I oo_I r_I y_E
+привычной привычной p_B rr_I i_I v_I yy_I ch_I n_I ay_I j_E
+привязана привязана p_B rr_I i_I vv_I ja_I z_I ay_I n_I ay_E
+пригожусь пригожусь p_B rr_I i_I g_I a_I zh_I uu_I ss_E
+приготовь приготовь p_B rr_I i_I g_I a_I t_I oo_I ff_E
+принцип принцип p_B rr_I ii_I n_I c_I y_I p_E
+приотворена приотворена p_B rr_I i_I a_I t_I v_I oo_I rr_I i_I n_I ay_E
+прищурясь прищурясь p_B rr_I i_I sch_I ju_I rr_I i_I ss_E
+провизии провизии p_B r_I a_I vv_I ii_I zz_I i_I i_E
+продуктами продуктами p_B r_I a_I d_I uu_I k_I t_I ay_I mm_I i_E
+проникал проникал p_B r_I ay_I nn_I i_I k_I aa_I l_E
+пространстве пространстве p_B r_I a_I s_I t_I r_I aa_I n_I s_I t_I vv_I i_E
+противоположные противоположные p_B r_I ay_I tt_I i_I v_I ay_I p_I a_I l_I oo_I zh_I n_I y_I i_E
+проходя проходя p_B r_I ay_I h_I a_I dd_I ja_E
+прохожих прохожих p_B r_I a_I h_I oo_I zh_I y_I h_E
+прядь прядь p_B rr_I ja_I tt_E
+прямой прямой p_B rr_I i_I m_I oo_I j_E
+пуля пуля p_B uu_I ll_I i_E
+пустые пустые p_B u_I s_I t_I yy_I i_E
+пустынные пустынные p_B uu_I s_I t_I y_I n_I y_I i_E
+пустыню пустыню p_B u_I s_I t_I yy_I nn_I uj_E
+пустырь пустырь p_B u_I s_I t_I yy_I rr_E
+путешествие путешествие p_B u_I tt_I i_I sh_I ee_I s_I t_I vv_I i_I i_E
+пхнул пхнул p_B h_I n_I uu_I l_E
+пыльцу пыльцу p_B y_I ll_I c_I uu_E
+работаю работаю r_B a_I b_I oo_I t_I ay_I uj_E
+рабочий рабочий r_B a_I b_I oo_I ch_I i_I j_E
+равнина равнина r_B a_I v_I nn_I ii_I n_I ay_E
+равниной равниной r_B a_I v_I nn_I ii_I n_I ay_I j_E
+равнину равнину r_B a_I v_I nn_I ii_I n_I u_E
+рад рад r_B aa_I t_E
+раз раз r_B aa_I s_E
+разбил разбил r_B a_I z_I bb_I ii_I l_E
+разбитые разбитые r_B a_I z_I bb_I ii_I t_I y_I i_E
+разбросано разбросано r_B a_I z_I b_I r_I oo_I s_I ay_I n_I ay_E
+развернул развернул r_B ay_I z_I vv_I i_I r_I n_I uu_I l_E
+разговоры разговоры r_B ay_I z_I g_I a_I v_I oo_I r_I y_E
+разломил разломил r_B ay_I z_I l_I a_I mm_I ii_I l_E
+размешивал размешивал r_B a_I z_I mm_I je_I sh_I y_I v_I ay_I l_E
+разные разные r_B aa_I z_I n_I y_I i_E
+разум разум r_B aa_I z_I u_I m_E
+ракета ракета r_B a_I kk_I je_I t_I ay_E
+раскрытые раскрытые r_B a_I s_I k_I r_I yy_I t_I y_I i_E
+распростёртое распростёртое r_B ay_I s_I p_I r_I a_I ss_I tt_I jo_I r_I t_I ay_I i_E
+рассказал рассказал r_B ay_I s_I k_I a_I z_I aa_I l_E
+расстегнул расстегнул r_B ay_I ss_I tt_I i_I g_I n_I uu_I l_E
+револьвер револьвер rr_B i_I v_I a_I ll_I vv_I je_I r_E
+ревя ревя rr_B i_I vv_I ja_E
+резкие резкие rr_B je_I s_I kk_I i_I i_E
+риске риске rr_B ii_I s_I kk_I i_E
+ромбами ромбами r_B oo_I m_I b_I ay_I mm_I i_E
+роскошном роскошном r_B a_I s_I k_I oo_I sh_I n_I ay_I m_E
+рослый рослый r_B oo_I s_I l_I y_I j_E
+рубахе рубахе r_B u_I b_I aa_I hh_I i_E
+рубашке рубашке r_B u_I b_I aa_I sh_I kk_I i_E
+рубашки рубашки r_B u_I b_I aa_I sh_I kk_I i_E
+руке руке r_B u_I kk_I je_E
+руку руку r_B uu_I k_I u_E
+рёбрами рёбрами rr_B jo_I b_I r_I ay_I mm_I i_E
+с с s_B y_E
+садимся садимся s_B aa_I dd_I i_I m_I ss_I i_E
+сам сам s_B aa_I m_E
+сарай сарай s_B a_I r_I aa_I j_E
+сарая сарая s_B a_I r_I aa_I i_E
+сбивались сбивались z_B bb_I i_I v_I aa_I ll_I i_I ss_E
+свет свет s_B vv_I je_I t_E
+сводчатого сводчатого s_B v_I oo_I ch_I i_I t_I ay_I v_I ay_E
+сводящие сводящие s_B v_I a_I dd_I ja_I sch_I i_I i_E
+свёрнутая свёрнутая s_B vv_I jo_I r_I n_I u_I t_I ay_I i_E
+себе себе ss_B i_I bb_I je_E
+сейчас сейчас ss_B i_I j_I ch_I ja_I s_E
+сел сел ss_B jo_I l_E
+семена семена ss_B i_I mm_I jo_I n_I ay_E
+семь семь ss_B je_I mm_E
+семью семью ss_B je_I mm_I j_I uj_E
+сердце сердце ss_B je_I r_I c_I y_E
+серо серо ss_B je_I r_I ay_E
+сеть сеть ss_B je_I tt_E
+сидел сидел ss_B i_I dd_I je_I l_E
+ситцевом ситцевом ss_B ii_I c_I y_I v_I ay_I m_E
+сих сих ss_B ii_I h_E
+сказал сказал s_B k_I a_I z_I aa_I l_E
+скал скал s_B k_I aa_I l_E
+сквере сквере s_B k_I vv_I je_I rr_I i_E
+сквозь сквозь s_B k_I v_I oo_I ss_E
+скользили скользили s_B k_I a_I ll_I zz_I ii_I ll_I i_E
+следы следы s_B ll_I i_I d_I yy_E
+сложно сложно s_B l_I oo_I zh_I n_I ay_E
+смены смены s_B mm_I je_I n_I y_E
+смерти смерти s_B mm_I je_I r_I tt_I i_E
+сметливым сметливым s_B mm_I i_I t_I ll_I ii_I v_I y_I m_E
+сморщился сморщился s_B m_I oo_I r_I sch_I i_I l_I ss_I i_E
+сначала сначала s_B n_I a_I ch_I ja_I l_I ay_E
+со со s_B oo_E
+события события s_B a_I b_I yy_I tt_I i_I i_E
+солдат солдат s_B a_I l_I d_I aa_I t_E
+солдата солдата s_B a_I l_I d_I aa_I t_I ay_E
+солнца солнца s_B oo_I n_I c_I ay_E
+солнце солнце s_B oo_I n_I c_I y_E
+соль соль s_B oo_I ll_E
+сотрясаясь сотрясаясь s_B ay_I t_I rr_I i_I s_I aa_I i_I ss_E
+спальню спальню s_B p_I aa_I ll_I nn_I uj_E
+спираль спираль s_B pp_I i_I r_I aa_I ll_E
+спокойным спокойным s_B p_I a_I k_I oo_I j_I n_I y_I m_E
+стал стал s_B t_I aa_I l_E
+стала стала s_B t_I aa_I l_I ay_E
+стали стали s_B t_I aa_I ll_I i_E
+старая старая s_B t_I aa_I r_I ay_I i_E
+стеклом стеклом ss_B tt_I i_I k_I l_I oo_I m_E
+стенах стенах ss_B tt_I je_I n_I ay_I h_E
+стокгольме стокгольме s_B t_I a_I g_I g_I oo_I ll_I mm_I i_E
+столом столом s_B t_I a_I l_I oo_I m_E
+столу столу s_B t_I a_I l_I uu_E
+сторону сторону s_B t_I oo_I r_I ay_I n_I u_E
+стороны стороны s_B t_I oo_I r_I ay_I n_I y_E
+стоявшую стоявшую s_B t_I a_I j_I ja_I f_I sh_I u_I uj_E
+странные странные s_B t_I r_I aa_I n_I y_I i_E
+строк строк s_B t_I r_I oo_I k_E
+стучала стучала s_B t_I u_I ch_I ja_I l_I ay_E
+стёганого стёганого ss_B tt_I jo_I g_I ay_I n_I ay_I v_I ay_E
+стёганой стёганой ss_B tt_I jo_I g_I ay_I n_I ay_I j_E
+стёкла стёкла ss_B tt_I jo_I k_I l_I ay_E
+сумерек сумерек s_B uu_I mm_I i_I rr_I i_I k_E
+сурик сурик s_B uu_I rr_I i_I k_E
+сух сух s_B uu_I h_E
+сферического сферического s_B ff_I i_I rr_I ii_I ch_I i_I s_I k_I ay_I v_I ay_E
+так так t_B aa_I k_E
+таков таков t_B a_I k_I oo_I f_E
+там там t_B aa_I m_E
+те те tt_B je_E
+тела тела tt_B je_I l_I ay_E
+телескопа телескопа tt_B i_I ll_I i_I s_I k_I oo_I p_I ay_E
+тени тени tt_B je_I nn_I i_E
+теперь теперь tt_B i_I pp_I je_I rr_E
+ткнул ткнул t_B k_I n_I uu_I l_E
+ткнулся ткнулся t_B k_I n_I uu_I l_I ss_I i_E
+то то t_B oo_E
+того того t_B a_I v_I oo_E
+тоже тоже t_B oo_I zh_I y_E
+той той t_B oo_I j_E
+толку толку t_B oo_I l_I k_I u_E
+толпе толпе t_B a_I l_I pp_I je_E
+только только t_B oo_I ll_I k_I ay_E
+тому тому t_B oo_I m_I u_E
+тонок тонок t_B oo_I n_I ay_I k_E
+точек точек t_B oo_I ch_I i_I k_E
+трава трава t_B r_I a_I v_I aa_E
+траве траве t_B r_I a_I vv_I je_E
+трепещет трепещет t_B rr_I i_I pp_I je_I sch_I i_I t_E
+тротуара тротуара t_B r_I ay_I t_I u_I aa_I r_I ay_E
+трубки трубки t_B r_I uu_I p_I kk_I i_E
+трубкой трубкой t_B r_I uu_I p_I k_I ay_I j_E
+трудом трудом t_B r_I u_I d_I oo_I m_E
+труп труп t_B r_I uu_I p_E
+тусклого тусклого t_B uu_I s_I k_I l_I ay_I v_I ay_E
+тусклой тусклой t_B uu_I s_I k_I l_I ay_I j_E
+туч туч t_B uu_I ch_E
+тысячи тысячи t_B yy_I ss_I i_I ch_I i_E
+тысячу тысячу t_B yy_I ss_I i_I ch_I uj_E
+тьме тьме tt_B mm_I je_E
+тянулись тянулись tt_B i_I n_I uu_I ll_I i_I ss_E
+тёмный тёмный tt_B jo_I m_I n_I y_I j_E
+тёплый тёплый tt_B jo_I p_I l_I y_I j_E
+у у uu_S
+убиты убиты u_B bb_I ii_I t_I y_E
+уверенно уверенно u_B vv_I je_I rr_I i_I n_I ay_E
+увидел увидел u_B vv_I ii_I dd_I i_I l_E
+углекислоты углекислоты u_B g_I ll_I i_I kk_I i_I s_I l_I oo_I t_I y_E
+удара удара u_B d_I aa_I r_I ay_E
+уж уж uu_B sh_E
+уже уже uu_B zh_I y_E
+узкие узкие uu_B s_I kk_I i_I i_E
+укреплён укреплён u_B k_I rr_I i_I p_I ll_I jo_I n_E
+улететь улететь u_B ll_I i_I tt_I je_I tt_E
+улицу улицу uu_B ll_I i_I c_I u_E
+улицы улицы uu_B ll_I i_I c_I y_E
+ума ума u_B m_I aa_E
+умерла умерла u_B mm_I i_I r_I l_I aa_E
+умылась умылась u_B m_I yy_I l_I ay_I ss_E
+упал упал u_B p_I aa_I l_E
+усами усами u_B s_I aa_I mm_I i_E
+условиях условиях u_B s_I l_I oo_I vv_I i_I i_I h_E
+успел успел u_B s_I pp_I je_I l_E
+утомлённым утомлённым u_B t_I a_I m_I ll_I jo_I n_I y_I m_E
+ухо ухо uu_B h_I ay_E
+учесть учесть u_B ch_I je_I ss_I tt_E
+учился учился u_B ch_I ii_I l_I ss_I i_E
+фельетонов фельетонов ff_B i_I ll_I j_I i_I t_I oo_I n_I ay_I f_E
+фермами фермами ff_B je_I r_I m_I ay_I mm_I i_E
+хваткой хваткой h_B v_I aa_I t_I k_I ay_I j_E
+холмистая холмистая h_B a_I l_I mm_I ii_I s_I t_I ay_I i_E
+хорошо хорошо h_B ay_I r_I a_I sh_I oo_E
+хотя хотя h_B a_I tt_I ja_E
+хребтом хребтом h_B rr_I i_I p_I t_I oo_I m_E
+цвета цвета c_B vv_I je_I t_I ay_E
+целует целует c_B y_I l_I uu_I i_I t_E
+цепи цепи c_B ee_I pp_I i_E
+часов часов ch_B i_I s_I oo_I f_E
+частой частой ch_B ja_I s_I t_I ay_I j_E
+чахлой чахлой ch_B ja_I h_I l_I ay_I j_E
+чаще чаще ch_B ja_I sch_I i_E
+чек чек ch_B je_I k_E
+человек человек ch_B i_I l_I a_I vv_I je_I k_E
+человеком человеком ch_B i_I l_I a_I vv_I je_I k_I ay_I m_E
+человеческий человеческий ch_B i_I l_I a_I vv_I je_I ch_I i_I s_I kk_I i_I j_E
+чем чем ch_B jo_I m_E
+через через ch_B je_I rr_I i_I s_E
+череп череп ch_B je_I rr_I i_I p_E
+чертах чертах ch_B jo_I r_I t_I ay_I h_E
+чертежами чертежами ch_B i_I r_I tt_I i_I zh_I aa_I mm_I i_E
+чистое чистое ch_B ii_I s_I t_I ay_I i_E
+читала читала ch_B i_I t_I aa_I l_I ay_E
+что что ch_B t_I oo_E
+чувствовал чувствовал ch_B ju_I s_I t_I v_I ay_I v_I ay_I l_E
+чудовище чудовище ch_B uj_I d_I oo_I vv_I i_I sch_I i_E
+чёрной чёрной ch_B jo_I r_I n_I ay_I j_E
+шагал шагал sh_B a_I g_I aa_I l_E
+шапки шапки sh_B aa_I p_I kk_I i_E
+шарик шарик sh_B aa_I rr_I i_I k_E
+шевелить шевелить sh_B y_I vv_I i_I ll_I ii_I tt_E
+шевеля шевеля sh_B y_I vv_I i_I ll_I ja_E
+шести шести sh_B y_I ss_I tt_I ii_E
+шесть шесть sh_B oo_I ss_I tt_E
+широкие широкие sh_B y_I r_I oo_I kk_I i_I i_E
+широко широко sh_B yy_I r_I ay_I k_I ay_E
+широкоплечий широкоплечий sh_B y_I r_I ay_I k_I a_I p_I ll_I je_I ch_I i_I j_E
+шли шли sh_B ll_I ii_E
+штанов штанов sh_B t_I a_I n_I oo_I f_E
+штык штык sh_B t_I yy_I k_E
+щели щели sch_B je_I ll_I i_E
+щетинистые щетинистые sch_B i_I tt_I ii_I nn_I i_I s_I t_I y_I i_E
+щиколотку щиколотку sch_B ii_I k_I ay_I l_I ay_I t_I k_I u_E
+щёки щёки sch_B jo_I kk_I i_E
+эдак эдак ee_B d_I ay_I k_E
+эй эй ee_B j_E
+экваториальной экваториальной y_B k_I v_I ay_I t_I ay_I rr_I i_I aa_I ll_I n_I ay_I j_E
+электрическая электрическая y_B ll_I i_I k_I t_I rr_I ii_I ch_I i_I s_I k_I ay_I i_E
+электричество электричество y_B ll_I i_I k_I t_I rr_I ii_I ch_I i_I s_I t_I v_I ay_E
+эта эта ee_B t_I ay_E
+это это ee_B t_I ay_E
+этого этого ee_B t_I ay_I v_I ay_E
+этой этой ee_B t_I ay_I j_E
+этом этом ee_B t_I ay_I m_E
+эту эту ee_B t_I u_E
+я я j_B ja_E
+яйца яйца j_B ja_I j_I c_I ay_E
+яйцеобразный яйцеобразный j_B i_I j_I c_I y_I a_I b_I r_I aa_I z_I n_I y_I j_E
+ярко ярко j_B ja_I r_I k_I ay_E
+ясно ясно j_B ja_I s_I n_I ay_E
+ясный ясный j_B ja_I s_I n_I y_I j_E
+ящериц ящериц j_B ja_I sch_I i_I rr_I i_I c_E
+ящики ящики j_B ja_I sch_I i_I kk_I i_E

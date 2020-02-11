@@ -1,0 +1,11 @@
+!SIL 1.0 SIL_S
+<UNK> 1.0 SPN_S
+электричество 1.0 y_B ll_I i_I k_I t_I rr_I ii_I ch_I i_I s_I t_I v_I ay_E
+было 1.0 b_B yy_I l_I ay_E
+потушенои 1.0 ii_S
+бледный 1.0 b_B ll_I je_I d_I n_I y_I j_E
+свет 1.0 s_B vv_I je_I t_E
+проникал 1.0 p_B r_I ay_I nn_I i_I k_I aa_I l_E
+сквозь 1.0 s_B k_I v_I oo_I ss_E
+стёкла 1.0 ss_B tt_I jo_I k_I l_I ay_E
+глазков 1.0 g_B l_I a_I s_I k_I oo_I f_E

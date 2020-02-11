@@ -1,0 +1,17 @@
+run `python3 german.py kaldi_root_path proto_dir_for_german`
+
+Ex: `python3 german.py /data/shreya/kaldi data/shreya/german/data
+
+proto_dir_for_german: could be like egs/gentle/german:
+                                                    /data:
+                                                            /dict
+                                                                /lexicon.txt
+                                                                /phones.txt
+                                                                /corpus.txt
+                                                    /model:
+                                                            /final.mdl 
+                                                            /tree
+
+model: temp_model
+data: temp
+                                                    

@@ -1,0 +1,37 @@
+[
+  {
+    "utterance":"anonymous0022-20100901-zck-ru_0070",
+    "start":"0.560",
+    "end":"1.53",
+    "text":"бледный",
+    "id":1
+  },
+  {
+    "utterance":"anonymous0022-20100901-zck-ru_0070",
+    "start":"2.870",
+    "end":"3.15",
+    "text":"свет",
+    "id":2
+  },
+  {
+    "utterance":"anonymous0022-20100901-zck-ru_0070",
+    "start":"3.480",
+    "end":"4.11",
+    "text":"проникал",
+    "id":3
+  },
+  {
+    "utterance":"anonymous0022-20100901-zck-ru_0070",
+    "start":"4.330",
+    "end":"4.63",
+    "text":"сквозь",
+    "id":4
+  },
+  {
+    "utterance":"anonymous0022-20100901-zck-ru_0070",
+    "start":"4.770",
+    "end":"5.1",
+    "text":"стёкла",
+    "id":5
+  }
+]
